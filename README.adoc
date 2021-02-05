@@ -1,1 +1,3 @@
 Checkout https://github.com/rstoyanchev/spring-framework/commits/preflight-handler and perform `./gradlew publishToMavenLocal`. Then run the application.
+
+This is testing https://github.com/spring-projects/spring-framework/issues/26257
